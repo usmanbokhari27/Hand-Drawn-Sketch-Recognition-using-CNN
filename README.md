@@ -1,4 +1,4 @@
-Introduction: Transfer learning is a powerful technique in deep learning that
+Transfer learning is a powerful technique in deep learning that
 leverages pre-trained models to solve new tasks with limited data. In this project,
 we explored transfer learning for image classification using various pre-trained
 models such as ResNet50, ResNet18, VGG16, and ultimately achieved the best
